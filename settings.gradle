@@ -1,0 +1,2 @@
+include ':app', ':translate'
+rootProject.name='AutoTransUI'
